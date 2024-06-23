@@ -54,3 +54,4 @@ class Book:
             'year': self.year,
             'genre': self.genre
         }
+    
