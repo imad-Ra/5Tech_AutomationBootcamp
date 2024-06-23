@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edit Book</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+        label { display: inline-block; width: 100px; }
+        input { margin-bottom: 10px; }
+    </style>
+</head>
+<body>
+    <h1>Edit Book</h1>
+    <form method="POST">
+        <label for="title">Title:</label>
+        <input type="text" id="title" name="title" value="{{ book.title }}" required><br>
+
+        <label for="author">Author:</label>
+        <input type="text" id="author" name="author" value="{{ book.author }}" required><br>
+
+        <label for="year">Year:</label>
+        <input type="number" id="year" name="year" value="{{ book.year }}" required><br>
+
+        <label for="genre">Genre:</label>
+        <input type="text" id="genre" name="genre" value="{{ book.genre }}" required><br>
+
+        <input type="submit" value="Update Book">
+    </form>
+    <a href="{{ url_for('index') }}">Back to Library</a>
+</body>
+</html>
