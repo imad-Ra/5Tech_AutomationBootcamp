@@ -4,7 +4,7 @@ from book import Book
 
 class TestLibrary(unittest.TestCase):
     def setUp(self):
-        library = Library()
+        self.library = Library()
         self.book1 = Book("Book 1", "Author 1", 2020, "Genre 1")
         self.book2 = Book("Book 2", "Author 2", 2021, "Genre 2")
         self.book3 = Book("Book 3", "Author 1", 2022, "Genre 3")
