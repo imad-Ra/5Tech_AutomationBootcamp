@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
 from book import Book
-from Project.library import Library
+from BookLibrary_Project.library import Library
 
 app = Flask(__name__)
 library = Library.load_from_file("library.json")
