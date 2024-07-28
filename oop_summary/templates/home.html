@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pet Management System</title>
+</head>
+<body>
+    <h1>Pet Management System</h1>
+
+    <h2>Owners</h2>
+    <ul>
+    {% for owner in owners %}
+        <li>
+            {{ owner }}
+            <a href="{{ url_for('remove_owner', owner_name=owner.name) }}">Remove</a>
+        </li>
+    {% endfor %}
+    </ul>
+    <a href="{{ url_for('add_owner') }}">Add Owner</a>
+
+    <h2>Pets</h2>
+    <ul>
+    {% for pet in pets %}
+        <li>
+            {{ pet }}
+            {% if not pet.is_vaccinated() %}
+                <a href="{{ url_for('vaccinate_pet', pet_name=pet.name) }}">Vaccinate</a>
+            {% endif %}
+            <a href="{{ url_for('remove_pet', pet_name=pet.name) }}">Remove</a>
+        </li>
+    {% endfor %}
+    </ul>
+    <a href="{{ url_for('add_pet') }}">Add Pet</a>
+</body>
+</html>

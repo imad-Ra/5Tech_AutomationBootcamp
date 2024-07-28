@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Owner</title>
+</head>
+<body>
+    <h1>Add Owner</h1>
+    <form method="POST">
+        <label>Name: <input type="text" name="name" required></label><br>
+        <label>Phone: <input type="text" name="phone" required></label><br>
+        <input type="submit" value="Add Owner">
+    </form>
+    <a href="{{ url_for('home') }}">Back to Home</a>
+</body>
+</html>
