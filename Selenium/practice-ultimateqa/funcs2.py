@@ -5,7 +5,7 @@ import time
 
 
 def open_browser():
-    driver = webdriver.Firefox()
+    driver = webdriver.chrome()
     driver.get("https://ultimateqa.com/complicated-page")
     time.sleep(2)
     return driver

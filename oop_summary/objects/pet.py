@@ -1,53 +1,45 @@
 class Pet:
     """
-    Represents a generic pet in the pet management system.
+    Represents a pet in the pet management system.
     """
 
-    total_pets = 0
+    def __init__(self, name, species, age, owner=None):
 
-    def __init__(self, name, species, age, owner):
-        """
-        Initialize a new Pet instance.
-        """
-        self.name = name
-        self.species = species
-        self.age = age
-        self.owner = owner
-        self.__vaccinated = False
-        Pet.total_pets += 1
+        self._name = name
+        self._species = species
+        self._age = age
+        self._owner = owner
+        self._vaccinated = False
 
-    def __str__(self):
-        """Return a string representation of the pet."""
-        return f"{self.name} the {self.species}"
+    # Getters
+    def get_name(self):
+        return self._name
+
+    def get_species(self):
+        return self._species
+
+    def get_age(self):
+        return self._age
+
+    def get_owner(self):
+        return self._owner
+
+    # Setters
+    def set_name(self, name):
+        self._name = name
+
+    def set_age(self, age):
+        self._age = age
+
+    def set_owner(self, owner):
+        self._owner = owner
 
     def is_vaccinated(self):
-        """Check if the pet is vaccinated."""
-        return self.__vaccinated
+        return self._vaccinated
 
-    def set_vaccinated(self, status):
-        """
-        Set the vaccination status of the pet.
+    def vaccinate(self):
 
-        :param status: Boolean indicating vaccination status
-        """
-        self.__vaccinated = status
+        self._vaccinated = True
 
-    def age_in_human_years(self):
-        """Convert pet age to human years."""
-        return self.age * 7
-
-    def __eq__(self, other):
-        """
-        Compare two pets based on name and species.
-
-        :param other: Another Pet object to compare with
-        :return: True if pets are equal, False otherwise
-        """
-        if isinstance(other, Pet):
-            return self.name == other.name and self.species == other.species
-        return False
-
-    @classmethod
-    def get_total_pets(cls):
-        """Get the total number of pets created."""
-        return cls.total_pets
+    def __str__(self):
+        return f"{self._name} the {self._species}, {self._age} years old"

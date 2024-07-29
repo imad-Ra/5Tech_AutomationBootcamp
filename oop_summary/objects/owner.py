@@ -3,32 +3,39 @@ class Owner:
     Represents an owner in the pet management system.
     """
 
-    def __init__(self, name, phone_number):
+    def __init__(self, name, phone):
         """
         Initialize a new Owner instance.
+
         """
-        self.name = name
-        self.phone_number = phone_number
-        self.pets = []
+        self._name = name
+        self._phone = phone
+        self._pets = []
+
+    # Getters
+    def get_name(self):
+        return self._name
+
+    def get_phone(self):
+        return self._phone
+
+    def get_pets(self):
+        return self._pets
+
+    # Setters
+    def set_name(self, name):
+        self._name = name
+
+    def set_phone(self, phone):
+        self._phone = phone
 
     def add_pet(self, pet):
         """
         Add a pet to the owner's list of pets.
-
-        :param pet: The Pet object to add
         """
-        self.pets.append(pet)
-
-    def remove_pet(self, pet):
-        """
-        Remove a pet from the owner's list of pets.
-
-        :param pet: The Pet object to remove
-        """
-        if pet in self.pets:
-            self.pets.remove(pet)
+        self._pets.append(pet)
+        pet.set_owner(self)
 
     def __str__(self):
-        """Return a string representation of the owner, including their pets."""
-        pet_names = ", ".join([pet.name for pet in self.pets])
-        return f"{self.name} (Phone: {self.phone_number}) - Pets: {pet_names}"
+        """Return a string representation of the owner."""
+        return f"{self._name} (Phone: {self._phone})"

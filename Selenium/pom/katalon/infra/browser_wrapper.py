@@ -2,14 +2,13 @@ import json
 
 from selenium import webdriver
 
-from infra.config_provider import ConfigProvider
-
+from oop_summary.infra.config_provider import ConfigProvider
 
 class BrowserWrapper:
 
     def __init__(self):
         self.driver = None
-        self.config = ConfigProvider.load_from_file('../config.json')
+        self.config = ConfigProvider.load_config_json('')
         print("Test Start")
 
     def get_driver(self, url):
