@@ -31,3 +31,4 @@ def write_file(file_path, content):
     finally:
         # This block always executes, regardless of whether an exception occurred
         print("File writing operation completed.")
+

@@ -1,11 +1,6 @@
-from flask import Flask, render_template
-
-from oop_summary.object_oriented_programing.pet_management_system.src.classes.pet import Pet
+from flask import Flask, render_template, request
 
 app = Flask(__name__)
-pet_file_path = 'pets.json'
-pet = Pet.load_store(pet_file_path)
-
 
 @app.route('/')
 def home():
@@ -15,14 +10,27 @@ def home():
 def owners():
     return render_template('owners.html')
 
-@app.route('/add_owner', methods=['GET', 'POST'])
-
-
 @app.route('/pets')
 def pets():
     return render_template('pets.html')
 
-# @app.route('/add_pet', methods=['GET', 'POST'])
+@app.route('/services')
+def services():
+    return render_template('services.html')
 
+@app.route('/add_owner', methods=['GET', 'POST'])
+def add_owner():
+    if request.method == 'POST':
+        # Process the form data
+        pass
+    return render_template('add_owner.html')
 
+@app.route('/add_pet', methods=['GET', 'POST'])
+def add_pet():
+    if request.method == 'POST':
+        # Process the form data
+        pass
+    return render_template('add_pet.html')
 
+if __name__ == '__main__':
+    app.run(debug=True)

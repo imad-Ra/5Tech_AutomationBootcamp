@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Management System - Add Pet</title>
+</head>
+<body>
+    <h1>Add New Pet</h1>
+    <!-- Navigation menu -->
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/owners">Owners</a></li>
+            <li><a href="/pets">Pets</a></li>
+            <li><a href="/services">Services</a></li>
+        </ul>
+    </nav>
+    <!-- Main content -->
+    <main>
+        <form action="/add_pet" method="post">
+            <label for="name">Pet Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="species">Species:</label>
+            <input type="text" id="species" name="species" required><br><br>
+
+            <label for="age">Age:</label>
+            <input type="number" id="age" name="age" required><br><br>
+
+            <label for="owner">Owner:</label>
+            <input type="text" id="owner" name="owner" required><br><br>
+
+            <label for="vaccinated">Vaccinated:</label>
+            <input type="checkbox" id="vaccinated" name="vaccinated"><br><br>
+
+            <input type="submit" value="Add Pet">
+        </form>
+    </main>
+</body>
+</html>

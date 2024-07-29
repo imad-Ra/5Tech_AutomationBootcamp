@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Management System - Add Owner</title>
+</head>
+<body>
+    <h1>Add New Owner</h1>
+    <!-- Navigation menu -->
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/owners">Owners</a></li>
+            <li><a href="/pets">Pets</a></li>
+            <li><a href="/services">Services</a></li>
+        </ul>
+    </nav>
+    <!-- Main content -->
+    <main>
+        <form action="/add_owner" method="post">
+            <label for="name">Owner Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" name="phone" required><br><br>
+
+            <!-- Note: Pets would typically be added separately or selected from existing pets -->
+
+            <input type="submit" value="Add Owner">
+        </form>
+    </main>
+</body>
+</html>
