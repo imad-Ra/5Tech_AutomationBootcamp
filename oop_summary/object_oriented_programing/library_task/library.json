@@ -1,0 +1,37 @@
+{
+ "name": "My Personal Library",
+ "books": [
+  {
+   "name": "Relativity - The Special and General Theory",
+   "price": 0.0,
+   "author": "Albert Einstein",
+   "genre": "Science",
+   "year": 1916,
+   "link": "https://manybooks.net/book/123267/read"
+  },
+  {
+   "name": "Hacker Crackdown",
+   "price": 0.0,
+   "author": "Bruce Sterling",
+   "genre": "Science",
+   "year": 1994,
+   "link": "https://manybooks.net/book/127145/read"
+  },
+  {
+   "name": "Dracula",
+   "price": 0.0,
+   "author": "Bram Stoker",
+   "genre": "Horror",
+   "year": 1897,
+   "link": "https://manybooks.net/book/127217/read"
+  },
+  {
+   "name": "A Tale of Two Cities",
+   "price": 0.0,
+   "author": "Charles Dickens",
+   "genre": "War",
+   "year": 1859,
+   "link": "https://manybooks.net/book/123017/read"
+  }
+ ]
+}

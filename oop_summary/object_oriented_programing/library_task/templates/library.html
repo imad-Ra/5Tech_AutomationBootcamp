@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Library</title>
+    <style>
+        /* Add the updated CSS here */
+        body {
+            font-family: times new roman;
+            background-color: #f4ede6; /* light brown background */
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            font-size: 2.5em; /* larger font size for heading */
+            color: #195; /* dark gray text color */
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        nav {
+            background-color: #199; /* dark blue background for navigation */
+            text-align: center;
+            padding: 20px 0;
+            font-size: 1.5em; /* larger font size for heading */
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fff; /* white text color */
+            margin: 0 10px;
+            padding: 10px 20px;
+            border-radius: 5px; /* rounded corners */
+            background: linear-gradient(160deg, #19, #115c); /* gradient background */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.9); /* shadow effect */
+            transition: background 2.9s, box-shadow 2.9s; /* transition for hover effects */
+        }
+
+        nav a:hover {
+            background: linear-gradient(135deg, #33c, #120); /* reverse gradient on hover */
+            box-shadow: 0 11px 12px rgba(0, 0, 0, 0.30); /* deeper shadow on hover */
+            color: #fff; /* keep the text color white */
+        }
+
+        .big-search {
+            width: 300px; /* Adjust the width to your desired size */
+            height: 40px; /* Adjust the height to your desired size */
+            font-size: 18px; /* Adjust the font size */
+            padding: 10px; /* Adjust the padding for better spacing inside the input */
+            border: 2px solid #ccc; /* Optional: Adjust the border style */
+            border-radius: 5px; /* Optional: Adjust the border radius for rounded corners */
+        }
+
+        button {
+            height: 40px; /* Match the height of the input field */
+            font-size: 16px; /* Adjust the font size */
+            padding: 10px 20px; /* Adjust the padding for better spacing inside the button */
+            border: 2px solid #ccc; /* Optional: Adjust the border style */
+            border-radius: 5px; /* Optional: Adjust the border radius for rounded corners */
+        }
+
+        div {
+            max-width: 800px; /* set max width for the content */
+            margin: 20px auto; /* center align the content */
+            padding: 20px;
+            background-color: #fff; /* white background for the content */
+            border-radius: 5px; /* rounded corners */
+            box-shadow: 0 8px 8px rgba(1, 1, 1, 5.7); /* shadow effect */
+        }
+
+        ul {
+            list-style-type: none; /* remove default list bullets */
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 20px; /* space between list items */
+            padding: 10px;
+            background-color: #f9f9f9; /* light gray background for list items */
+            border-radius: 5px; /* rounded corners */
+            box-shadow: 2px 9px 9px rgba(4, 6, 2, 0.7); /* shadow effect */
+        }
+
+        h2 {
+            font-size: 1.5em; /* larger font size for book titles */
+            color: #333; /* dark gray text color */
+            margin-top: 0;
+        }
+
+        p {
+            font-size: 1.2em; /* larger font size for book details */
+            color: #555; /* dark gray text color */
+            margin: 10px 0;
+        }
+
+        a {
+
+            color: #109fff; /* blue link color */
+            text-decoration: none;
+            margin-right: 15px;
+        }
+
+
+
+        button {
+            background-color: #dc3545; /* red button color */
+            color: #fff; /* white text color */
+            border: none;
+            padding: 3px 4px;
+            margin-right: 4px;
+            cursor: pointer;
+            border-radius: 4px;
+        }
+
+        button:hover {
+            background-color: #c82333; /* slightly darker red on hover */
+        }
+
+        hr {
+            margin: 20px 0; /* space above and below the horizontal rule */
+            border: none;
+            border-top: 1px solid #ccc; /* light gray horizontal rule */
+        }
+
+        .empty-library {
+            text-align: center;
+            font-size: 1.2em;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h1>Your Library</h1>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/library">Library</a>
+        <a href="/add">Add Book</a>
+        <a href="/contact">Contact Us</a>
+        <a href="/about">About</a>
+    </nav>
+    <div>
+        {% if library.books %}
+            <ul>
+                {% for book in library.books %}
+                    <li>
+                        <h2>{{ book.name }}</h2>
+                        <p>Price: {{ book.price }}</p>
+                        <p>Author: {{ book.author }}</p>
+                        <p>Genre: {{ book.genre }}</p>
+                        <p>Year: {{ book.year }}</p>
+                        <p>Link: <a href="{{ book.link }}" target="_blank">{{ book.link }}</a></p>
+                        <a href="{{ url_for('edit_book', book_name=book.name) }}">Edit</a>
+                        <form action="{{ url_for('delete_book', book_name=book.name) }}" method="post" style="display:inline;">
+                            <button type="submit">Delete</button>
+                        </form>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p class="empty-library">The library is empty.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

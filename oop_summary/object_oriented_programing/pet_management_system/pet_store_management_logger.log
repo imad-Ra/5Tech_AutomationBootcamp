@@ -1,0 +1,648 @@
+2024-07-28 23:45:54,283:INFO:Checking pet is vaccinated:
+2024-07-28 23:46:01,202:INFO:Checking if pets ar equal.:
+2024-07-28 23:46:01,202:INFO:Checking if pets ar equal.:
+2024-07-28 23:46:01,202:INFO:Setting pet as vaccinated:
+2024-07-28 23:46:01,202:INFO:listing pet details:
+2024-07-28 23:46:01,203:INFO:Checking pet is vaccinated:
+2024-07-28 23:46:47,002:INFO:Checking if pets ar equal.:
+2024-07-28 23:46:47,002:INFO:Checking if pets ar equal.:
+2024-07-28 23:46:47,002:INFO:Setting pet as vaccinated:
+2024-07-28 23:46:47,002:INFO:listing pet details:
+2024-07-28 23:46:47,002:INFO:Checking pet is vaccinated:
+2024-07-28 23:46:47,003:INFO:Checking pet is vaccinated:
+2024-07-28 23:46:47,003:INFO:Checking pet is vaccinated:
+2024-07-28 23:47:19,153:INFO:Checking if pets ar equal.:
+2024-07-28 23:47:19,153:INFO:Checking if pets ar equal.:
+2024-07-28 23:47:19,154:INFO:Setting pet as vaccinated:
+2024-07-28 23:47:19,154:INFO:listing pet details:
+2024-07-28 23:47:19,154:INFO:Checking pet is vaccinated:
+2024-07-28 23:47:19,154:INFO:Checking pet is vaccinated:
+2024-07-28 23:47:19,154:INFO:Checking pet is vaccinated:
+2024-07-28 23:47:19,154:INFO:Retrieving pet age:
+2024-07-28 23:47:35,723:INFO:Checking if pets ar equal.:
+2024-07-28 23:47:35,723:INFO:Checking if pets ar equal.:
+2024-07-28 23:47:35,724:INFO:Setting pet as vaccinated:
+2024-07-28 23:47:35,725:INFO:listing pet details:
+2024-07-28 23:47:35,725:INFO:Checking pet is vaccinated:
+2024-07-28 23:47:35,725:INFO:Checking pet is vaccinated:
+2024-07-28 23:47:35,725:INFO:Checking pet is vaccinated:
+2024-07-28 23:47:35,725:INFO:Retrieving pet age:
+2024-07-28 23:47:35,725:INFO:Retrieving pet age:
+2024-07-28 23:47:35,725:INFO:Retrieving pet age:
+2024-07-28 23:52:44,255:INFO:Checking if pets ar equal.:
+2024-07-28 23:52:44,255:INFO:Checking if pets ar equal.:
+2024-07-28 23:52:44,255:INFO:Setting pet as vaccinated:
+2024-07-28 23:52:44,255:INFO:listing pet details:
+2024-07-28 23:52:44,255:INFO:Checking pet is vaccinated:
+2024-07-28 23:52:44,255:INFO:Checking pet is vaccinated:
+2024-07-28 23:52:44,255:INFO:Checking pet is vaccinated:
+2024-07-28 23:52:44,256:INFO:Retrieving pet age:
+2024-07-28 23:52:44,256:INFO:Retrieving pet age:
+2024-07-28 23:52:44,256:INFO:Retrieving pet age:
+2024-07-28 23:52:44,256:INFO:Adding new owner:
+2024-07-28 23:52:44,257:INFO:Owner was added and data saved to json:
+2024-07-28 23:52:44,257:INFO:Adding new owner:
+2024-07-28 23:52:44,258:INFO:Owner was added and data saved to json:
+2024-07-28 23:52:44,258:INFO:Listing owner details:
+2024-07-28 23:52:44,258:INFO:Listing owner details:
+2024-07-28 23:54:59,267:INFO:Checking if pets ar equal.:
+2024-07-28 23:54:59,267:INFO:Checking if pets ar equal.:
+2024-07-28 23:54:59,267:INFO:Setting pet as vaccinated:
+2024-07-28 23:54:59,267:INFO:listing pet details:
+2024-07-28 23:54:59,267:INFO:Checking pet is vaccinated:
+2024-07-28 23:54:59,267:INFO:Checking pet is vaccinated:
+2024-07-28 23:54:59,267:INFO:Checking pet is vaccinated:
+2024-07-28 23:54:59,267:INFO:Retrieving pet age:
+2024-07-28 23:54:59,267:INFO:Retrieving pet age:
+2024-07-28 23:54:59,267:INFO:Retrieving pet age:
+2024-07-28 23:54:59,268:INFO:Adding new owner:
+2024-07-28 23:54:59,269:INFO:Owner was added and data saved to json:
+2024-07-28 23:54:59,269:INFO:Owner already exists: {'name': 'mark', 'phone': '0542253236', 'pets': [{'name': 'meow', 'species': 'cat', 'age': 10, 'owner': 'marcus', 'vaccinated': True}]}:
+2024-07-28 23:54:59,269:ERROR:Error adding and saving owner: Owner already exists: {'name': 'mark', 'phone': '0542253236', 'pets': [{'name': 'meow', 'species': 'cat', 'age': 10, 'owner': 'marcus', 'vaccinated': True}]}:
+2024-07-28 23:54:59,269:INFO:Listing owner details:
+2024-07-28 23:54:59,269:INFO:Listing owner details:
+2024-07-28 23:55:52,857:INFO:Checking if pets ar equal.:
+2024-07-28 23:55:52,857:INFO:Checking if pets ar equal.:
+2024-07-28 23:55:52,857:INFO:Setting pet as vaccinated:
+2024-07-28 23:55:52,857:INFO:listing pet details:
+2024-07-28 23:55:52,858:INFO:Checking pet is vaccinated:
+2024-07-28 23:55:52,858:INFO:Checking pet is vaccinated:
+2024-07-28 23:55:52,858:INFO:Checking pet is vaccinated:
+2024-07-28 23:55:52,858:INFO:Retrieving pet age:
+2024-07-28 23:55:52,858:INFO:Retrieving pet age:
+2024-07-28 23:55:52,858:INFO:Retrieving pet age:
+2024-07-28 23:55:52,858:INFO:Adding new owner:
+2024-07-28 23:55:52,859:INFO:Owner was added and data saved to json:
+2024-07-28 23:55:52,859:INFO:Adding new owner:
+2024-07-28 23:55:52,859:INFO:Owner was added and data saved to json:
+2024-07-28 23:55:52,859:INFO:Listing owner details:
+2024-07-28 23:55:52,859:INFO:Listing owner details:
+2024-07-28 23:57:59,310:INFO:Checking if pets ar equal.:
+2024-07-28 23:57:59,310:INFO:Checking if pets ar equal.:
+2024-07-28 23:57:59,310:INFO:Setting pet as vaccinated:
+2024-07-28 23:57:59,310:INFO:listing pet details:
+2024-07-28 23:57:59,310:INFO:Checking pet is vaccinated:
+2024-07-28 23:57:59,310:INFO:Checking pet is vaccinated:
+2024-07-28 23:57:59,310:INFO:Checking pet is vaccinated:
+2024-07-28 23:57:59,310:INFO:Retrieving pet age:
+2024-07-28 23:57:59,310:INFO:Retrieving pet age:
+2024-07-28 23:57:59,310:INFO:Retrieving pet age:
+2024-07-28 23:58:19,121:INFO:Checking if pets ar equal.:
+2024-07-28 23:58:19,121:INFO:Checking if pets ar equal.:
+2024-07-28 23:58:19,121:INFO:Setting pet as vaccinated:
+2024-07-28 23:58:19,121:INFO:listing pet details:
+2024-07-28 23:58:19,121:INFO:Checking pet is vaccinated:
+2024-07-28 23:58:19,122:INFO:Checking pet is vaccinated:
+2024-07-28 23:58:19,122:INFO:Checking pet is vaccinated:
+2024-07-28 23:58:19,122:INFO:Retrieving pet age:
+2024-07-28 23:58:19,122:INFO:Retrieving pet age:
+2024-07-28 23:58:19,122:INFO:Retrieving pet age:
+2024-07-28 23:58:19,122:INFO:Adding new owner:
+2024-07-28 23:58:19,122:INFO:Owner was added and data saved to json:
+2024-07-28 23:58:19,122:INFO:Owner already exists: {'name': 'mark', 'phone': '0542253236', 'pets': [{'name': 'meow', 'species': 'cat', 'age': 10, 'owner': 'mark', 'vaccinated': True}]}:
+2024-07-28 23:58:19,122:ERROR:Error adding and saving owner: Owner already exists: {'name': 'mark', 'phone': '0542253236', 'pets': [{'name': 'meow', 'species': 'cat', 'age': 10, 'owner': 'mark', 'vaccinated': True}]}:
+2024-07-28 23:58:19,122:INFO:Listing owner details:
+2024-07-28 23:58:19,122:INFO:Listing owner details:
+2024-07-28 23:58:19,122:INFO:listing pet details:
+2024-07-28 23:58:50,747:INFO:Checking if pets ar equal.:
+2024-07-28 23:58:50,747:INFO:Checking if pets ar equal.:
+2024-07-28 23:58:50,747:INFO:Setting pet as vaccinated:
+2024-07-28 23:58:50,747:INFO:listing pet details:
+2024-07-28 23:58:50,747:INFO:Checking pet is vaccinated:
+2024-07-28 23:58:50,747:INFO:Checking pet is vaccinated:
+2024-07-28 23:58:50,747:INFO:Checking pet is vaccinated:
+2024-07-28 23:58:50,747:INFO:Retrieving pet age:
+2024-07-28 23:58:50,747:INFO:Retrieving pet age:
+2024-07-28 23:58:50,748:INFO:Retrieving pet age:
+2024-07-28 23:58:50,748:INFO:Adding new owner:
+2024-07-28 23:58:50,748:INFO:Owner was added and data saved to json:
+2024-07-28 23:58:50,748:INFO:Adding new owner:
+2024-07-28 23:58:50,748:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-28 23:58:50,748:INFO:Listing owner details:
+2024-07-28 23:58:50,749:INFO:Listing owner details:
+2024-07-28 23:58:50,749:INFO:listing pet details:
+2024-07-29 00:00:16,387:INFO:Checking if pets ar equal.:
+2024-07-29 00:00:16,387:INFO:Checking if pets ar equal.:
+2024-07-29 00:00:16,387:INFO:Setting pet as vaccinated:
+2024-07-29 00:00:16,387:INFO:listing pet details:
+2024-07-29 00:00:16,388:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:16,388:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:16,388:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:16,388:INFO:Retrieving pet age:
+2024-07-29 00:00:16,388:INFO:Retrieving pet age:
+2024-07-29 00:00:16,388:INFO:Retrieving pet age:
+2024-07-29 00:00:16,388:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:00:16,388:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:00:16,388:INFO:Adding new owner:
+2024-07-29 00:00:16,388:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:00:16,388:INFO:Listing owner details:
+2024-07-29 00:00:16,388:ERROR:Error listing owner details: tuple indices must be integers or slices, not str:
+2024-07-29 00:00:28,608:INFO:Checking if pets ar equal.:
+2024-07-29 00:00:28,608:INFO:Checking if pets ar equal.:
+2024-07-29 00:00:28,608:INFO:Setting pet as vaccinated:
+2024-07-29 00:00:28,608:INFO:listing pet details:
+2024-07-29 00:00:28,608:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:28,608:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:28,608:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:28,608:INFO:Retrieving pet age:
+2024-07-29 00:00:28,608:INFO:Retrieving pet age:
+2024-07-29 00:00:28,608:INFO:Retrieving pet age:
+2024-07-29 00:00:28,609:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:00:28,609:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:00:28,609:INFO:Adding new owner:
+2024-07-29 00:00:28,609:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:00:28,609:INFO:Listing owner details:
+2024-07-29 00:00:28,609:ERROR:Error listing owner details: tuple indices must be integers or slices, not str:
+2024-07-29 00:00:49,476:INFO:Checking if pets ar equal.:
+2024-07-29 00:00:49,477:INFO:Checking if pets ar equal.:
+2024-07-29 00:00:49,477:INFO:Setting pet as vaccinated:
+2024-07-29 00:00:49,477:INFO:listing pet details:
+2024-07-29 00:00:49,477:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:49,477:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:49,477:INFO:Checking pet is vaccinated:
+2024-07-29 00:00:49,477:INFO:Retrieving pet age:
+2024-07-29 00:00:49,477:INFO:Retrieving pet age:
+2024-07-29 00:00:49,477:INFO:Retrieving pet age:
+2024-07-29 00:00:49,477:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:00:49,477:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:00:49,477:INFO:Adding new owner:
+2024-07-29 00:00:49,477:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:00:49,477:INFO:Listing owner details:
+2024-07-29 00:00:49,477:ERROR:Error listing owner details: tuple indices must be integers or slices, not str:
+2024-07-29 00:01:05,720:INFO:Checking if pets ar equal.:
+2024-07-29 00:01:05,720:INFO:Checking if pets ar equal.:
+2024-07-29 00:01:05,720:INFO:Setting pet as vaccinated:
+2024-07-29 00:01:05,720:INFO:listing pet details:
+2024-07-29 00:01:05,720:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:05,720:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:05,720:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:05,720:INFO:Retrieving pet age:
+2024-07-29 00:01:05,720:INFO:Retrieving pet age:
+2024-07-29 00:01:05,720:INFO:Retrieving pet age:
+2024-07-29 00:01:05,721:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:01:05,721:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:01:05,721:INFO:Adding new owner:
+2024-07-29 00:01:05,721:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:01:05,721:INFO:Listing owner details:
+2024-07-29 00:01:05,721:INFO:Listing owner details:
+2024-07-29 00:01:41,396:INFO:Checking if pets ar equal.:
+2024-07-29 00:01:41,396:INFO:Checking if pets ar equal.:
+2024-07-29 00:01:41,396:INFO:Setting pet as vaccinated:
+2024-07-29 00:01:41,396:INFO:listing pet details:
+2024-07-29 00:01:41,396:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:41,396:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:41,396:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:41,396:INFO:Retrieving pet age:
+2024-07-29 00:01:41,396:INFO:Retrieving pet age:
+2024-07-29 00:01:41,396:INFO:Retrieving pet age:
+2024-07-29 00:01:41,397:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:01:41,397:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:01:41,397:INFO:Adding new owner:
+2024-07-29 00:01:41,397:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:01:41,397:INFO:Listing owner details:
+2024-07-29 00:01:54,685:INFO:Checking if pets ar equal.:
+2024-07-29 00:01:54,686:INFO:Checking if pets ar equal.:
+2024-07-29 00:01:54,686:INFO:Setting pet as vaccinated:
+2024-07-29 00:01:54,686:INFO:listing pet details:
+2024-07-29 00:01:54,686:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:54,686:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:54,686:INFO:Checking pet is vaccinated:
+2024-07-29 00:01:54,686:INFO:Retrieving pet age:
+2024-07-29 00:01:54,686:INFO:Retrieving pet age:
+2024-07-29 00:01:54,686:INFO:Retrieving pet age:
+2024-07-29 00:01:54,687:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:01:54,687:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:01:54,687:INFO:Adding new owner:
+2024-07-29 00:01:54,687:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:01:54,687:INFO:listing pet details:
+2024-07-29 00:01:54,687:INFO:Listing owner details:
+2024-07-29 00:02:23,948:INFO:Checking if pets ar equal.:
+2024-07-29 00:02:23,948:INFO:Checking if pets ar equal.:
+2024-07-29 00:02:23,949:INFO:Setting pet as vaccinated:
+2024-07-29 00:02:23,949:INFO:listing pet details:
+2024-07-29 00:02:23,949:INFO:Checking pet is vaccinated:
+2024-07-29 00:02:23,949:INFO:Checking pet is vaccinated:
+2024-07-29 00:02:23,949:INFO:Checking pet is vaccinated:
+2024-07-29 00:02:23,949:INFO:Retrieving pet age:
+2024-07-29 00:02:23,949:INFO:Retrieving pet age:
+2024-07-29 00:02:23,949:INFO:Retrieving pet age:
+2024-07-29 00:02:23,950:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:02:23,950:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:02:23,950:INFO:Adding new owner:
+2024-07-29 00:02:23,950:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:02:23,950:INFO:Listing owner details:
+2024-07-29 00:02:52,318:INFO:Checking if pets ar equal.:
+2024-07-29 00:02:52,318:INFO:Checking if pets ar equal.:
+2024-07-29 00:02:52,318:INFO:Setting pet as vaccinated:
+2024-07-29 00:02:52,318:INFO:listing pet details:
+2024-07-29 00:02:52,318:INFO:Checking pet is vaccinated:
+2024-07-29 00:02:52,318:INFO:Checking pet is vaccinated:
+2024-07-29 00:02:52,318:INFO:Checking pet is vaccinated:
+2024-07-29 00:02:52,318:INFO:Retrieving pet age:
+2024-07-29 00:02:52,318:INFO:Retrieving pet age:
+2024-07-29 00:02:52,318:INFO:Retrieving pet age:
+2024-07-29 00:02:52,319:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:02:52,319:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:02:52,319:INFO:Adding new owner:
+2024-07-29 00:02:52,319:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:02:52,319:INFO:Listing owner details:
+2024-07-29 00:02:52,319:INFO:Listing owner details:
+2024-07-29 00:04:54,742:INFO:Checking if pets ar equal.:
+2024-07-29 00:04:54,742:INFO:Checking if pets ar equal.:
+2024-07-29 00:04:54,742:INFO:Setting pet as vaccinated:
+2024-07-29 00:04:54,742:INFO:listing pet details:
+2024-07-29 00:04:54,742:INFO:Checking pet is vaccinated:
+2024-07-29 00:04:54,742:INFO:Checking pet is vaccinated:
+2024-07-29 00:04:54,742:INFO:Checking pet is vaccinated:
+2024-07-29 00:04:54,742:INFO:Retrieving pet age:
+2024-07-29 00:04:54,742:INFO:Retrieving pet age:
+2024-07-29 00:04:54,743:INFO:Retrieving pet age:
+2024-07-29 00:04:54,743:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:04:54,743:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:04:54,743:INFO:Adding new owner:
+2024-07-29 00:04:54,743:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:04:54,743:INFO:Listing owner details:
+2024-07-29 00:04:54,743:INFO:Listing owner details:
+2024-07-29 00:05:11,845:INFO:Checking if pets ar equal.:
+2024-07-29 00:05:11,845:INFO:Checking if pets ar equal.:
+2024-07-29 00:05:11,845:INFO:Setting pet as vaccinated:
+2024-07-29 00:05:11,845:INFO:listing pet details:
+2024-07-29 00:05:11,845:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:11,845:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:11,845:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:11,845:INFO:Retrieving pet age:
+2024-07-29 00:05:11,845:INFO:Retrieving pet age:
+2024-07-29 00:05:11,845:INFO:Retrieving pet age:
+2024-07-29 00:05:23,530:INFO:Checking if pets ar equal.:
+2024-07-29 00:05:23,530:INFO:Checking if pets ar equal.:
+2024-07-29 00:05:23,530:INFO:Setting pet as vaccinated:
+2024-07-29 00:05:23,530:INFO:listing pet details:
+2024-07-29 00:05:23,530:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:23,530:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:23,530:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:23,530:INFO:Retrieving pet age:
+2024-07-29 00:05:23,530:INFO:Retrieving pet age:
+2024-07-29 00:05:23,530:INFO:Retrieving pet age:
+2024-07-29 00:05:23,531:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:05:23,531:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:05:23,531:INFO:Adding new owner:
+2024-07-29 00:05:23,531:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:05:23,531:INFO:Listing owner details:
+2024-07-29 00:05:23,531:INFO:Listing owner details:
+2024-07-29 00:05:34,904:INFO:Checking if pets ar equal.:
+2024-07-29 00:05:34,904:INFO:Checking if pets ar equal.:
+2024-07-29 00:05:34,904:INFO:Setting pet as vaccinated:
+2024-07-29 00:05:34,904:INFO:listing pet details:
+2024-07-29 00:05:34,904:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:34,904:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:34,904:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:34,904:INFO:Retrieving pet age:
+2024-07-29 00:05:34,904:INFO:Retrieving pet age:
+2024-07-29 00:05:34,904:INFO:Retrieving pet age:
+2024-07-29 00:05:34,905:INFO:Adding new owner:
+2024-07-29 00:05:34,906:INFO:Owner was added and data saved to json:
+2024-07-29 00:05:34,906:INFO:Adding new owner:
+2024-07-29 00:05:34,906:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:05:34,906:INFO:Listing owner details:
+2024-07-29 00:05:34,906:INFO:Listing owner details:
+2024-07-29 00:05:56,515:INFO:Checking if pets ar equal.:
+2024-07-29 00:05:56,516:INFO:Checking if pets ar equal.:
+2024-07-29 00:05:56,516:INFO:Setting pet as vaccinated:
+2024-07-29 00:05:56,516:INFO:listing pet details:
+2024-07-29 00:05:56,516:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:56,516:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:56,516:INFO:Checking pet is vaccinated:
+2024-07-29 00:05:56,516:INFO:Retrieving pet age:
+2024-07-29 00:05:56,516:INFO:Retrieving pet age:
+2024-07-29 00:05:56,516:INFO:Retrieving pet age:
+2024-07-29 00:05:56,516:INFO:Adding new owner:
+2024-07-29 00:05:56,516:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:05:56,516:INFO:Listing owner details:
+2024-07-29 00:05:56,516:INFO:Listing owner details:
+2024-07-29 00:06:30,999:INFO:Checking if pets ar equal.:
+2024-07-29 00:06:30,999:INFO:Checking if pets ar equal.:
+2024-07-29 00:06:30,999:INFO:Setting pet as vaccinated:
+2024-07-29 00:06:30,999:INFO:listing pet details:
+2024-07-29 00:06:30,999:INFO:Checking pet is vaccinated:
+2024-07-29 00:06:30,999:INFO:Checking pet is vaccinated:
+2024-07-29 00:06:30,999:INFO:Checking pet is vaccinated:
+2024-07-29 00:06:30,999:INFO:Retrieving pet age:
+2024-07-29 00:06:30,999:INFO:Retrieving pet age:
+2024-07-29 00:06:30,999:INFO:Retrieving pet age:
+2024-07-29 00:06:31,000:INFO:Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:06:31,000:ERROR:Error adding and saving owner: Owner already exists: {'name': 'john', 'phone': '0523362356', 'pets': [{'name': 'rex', 'species': 'dog', 'age': 5, 'owner': 'john', 'vaccinated': True}, {'name': 'boby', 'species': 'dog', 'age': 9, 'owner': 'john', 'vaccinated': False}]}:
+2024-07-29 00:06:31,000:INFO:Adding new owner:
+2024-07-29 00:06:31,000:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:06:31,000:INFO:Listing owner details:
+2024-07-29 00:06:31,000:INFO:Listing owner details:
+2024-07-29 00:09:02,841:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:02,841:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:02,841:INFO:Setting pet as vaccinated:
+2024-07-29 00:09:02,841:INFO:listing pet details:
+2024-07-29 00:09:02,841:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:02,841:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:02,841:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:02,841:INFO:Retrieving pet age:
+2024-07-29 00:09:02,841:INFO:Retrieving pet age:
+2024-07-29 00:09:02,841:INFO:Retrieving pet age:
+2024-07-29 00:09:02,842:INFO:Adding new owner:
+2024-07-29 00:09:02,842:INFO:Owner was added and data saved to json:
+2024-07-29 00:09:02,843:INFO:Adding new owner:
+2024-07-29 00:09:02,843:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:09:02,843:INFO:Listing owner details:
+2024-07-29 00:09:02,843:INFO:Listing owner details:
+2024-07-29 00:09:14,333:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:14,333:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:14,333:INFO:Setting pet as vaccinated:
+2024-07-29 00:09:14,333:INFO:listing pet details:
+2024-07-29 00:09:14,333:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:14,334:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:14,334:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:14,334:INFO:Retrieving pet age:
+2024-07-29 00:09:14,334:INFO:Retrieving pet age:
+2024-07-29 00:09:14,334:INFO:Retrieving pet age:
+2024-07-29 00:09:16,021:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:16,022:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:16,022:INFO:Setting pet as vaccinated:
+2024-07-29 00:09:16,022:INFO:listing pet details:
+2024-07-29 00:09:16,022:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:16,022:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:16,022:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:16,022:INFO:Retrieving pet age:
+2024-07-29 00:09:16,022:INFO:Retrieving pet age:
+2024-07-29 00:09:16,022:INFO:Retrieving pet age:
+2024-07-29 00:09:35,471:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:35,472:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:35,472:INFO:Setting pet as vaccinated:
+2024-07-29 00:09:35,472:INFO:listing pet details:
+2024-07-29 00:09:35,472:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:35,472:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:35,472:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:35,472:INFO:Retrieving pet age:
+2024-07-29 00:09:35,472:INFO:Retrieving pet age:
+2024-07-29 00:09:35,472:INFO:Retrieving pet age:
+2024-07-29 00:09:35,472:INFO:Adding new owner:
+2024-07-29 00:09:35,472:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:09:35,472:INFO:Listing owner details:
+2024-07-29 00:09:35,472:INFO:Listing owner details:
+2024-07-29 00:09:45,707:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:45,707:INFO:Checking if pets ar equal.:
+2024-07-29 00:09:45,707:INFO:Setting pet as vaccinated:
+2024-07-29 00:09:45,707:INFO:listing pet details:
+2024-07-29 00:09:45,707:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:45,708:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:45,708:INFO:Checking pet is vaccinated:
+2024-07-29 00:09:45,708:INFO:Retrieving pet age:
+2024-07-29 00:09:45,708:INFO:Retrieving pet age:
+2024-07-29 00:09:45,708:INFO:Retrieving pet age:
+2024-07-29 00:09:45,708:INFO:Adding new owner:
+2024-07-29 00:09:45,708:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:09:45,709:INFO:Listing owner details:
+2024-07-29 00:09:45,709:INFO:Listing owner details:
+2024-07-29 00:10:08,840:INFO:Checking if pets ar equal.:
+2024-07-29 00:10:08,840:INFO:Checking if pets ar equal.:
+2024-07-29 00:10:08,841:INFO:Setting pet as vaccinated:
+2024-07-29 00:10:08,841:INFO:listing pet details:
+2024-07-29 00:10:08,842:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:08,842:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:08,842:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:08,842:INFO:Retrieving pet age:
+2024-07-29 00:10:08,842:INFO:Retrieving pet age:
+2024-07-29 00:10:08,842:INFO:Retrieving pet age:
+2024-07-29 00:10:08,842:INFO:Adding new owner:
+2024-07-29 00:10:08,842:ERROR:Error adding and saving owner: 'str' object has no attribute 'pet_to_dict':
+2024-07-29 00:10:08,842:INFO:Listing owner details:
+2024-07-29 00:10:08,842:INFO:Listing owner details:
+2024-07-29 00:10:17,442:INFO:Checking if pets ar equal.:
+2024-07-29 00:10:17,442:INFO:Checking if pets ar equal.:
+2024-07-29 00:10:17,442:INFO:Setting pet as vaccinated:
+2024-07-29 00:10:17,442:INFO:listing pet details:
+2024-07-29 00:10:17,442:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:17,442:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:17,443:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:17,443:INFO:Retrieving pet age:
+2024-07-29 00:10:17,443:INFO:Retrieving pet age:
+2024-07-29 00:10:17,443:INFO:Retrieving pet age:
+2024-07-29 00:10:17,443:INFO:Adding new owner:
+2024-07-29 00:10:17,443:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:10:17,443:INFO:Listing owner details:
+2024-07-29 00:10:17,443:INFO:Listing owner details:
+2024-07-29 00:10:38,828:INFO:Checking if pets ar equal.:
+2024-07-29 00:10:38,828:INFO:Checking if pets ar equal.:
+2024-07-29 00:10:38,828:INFO:Setting pet as vaccinated:
+2024-07-29 00:10:38,829:INFO:listing pet details:
+2024-07-29 00:10:38,829:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:38,829:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:38,829:INFO:Checking pet is vaccinated:
+2024-07-29 00:10:38,829:INFO:Retrieving pet age:
+2024-07-29 00:10:38,829:INFO:Retrieving pet age:
+2024-07-29 00:10:38,829:INFO:Retrieving pet age:
+2024-07-29 00:10:38,829:INFO:Adding new owner:
+2024-07-29 00:10:38,829:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:10:38,829:INFO:Listing owner details:
+2024-07-29 00:10:38,829:INFO:Listing owner details:
+2024-07-29 00:11:14,622:INFO:Checking if pets ar equal.:
+2024-07-29 00:11:14,622:INFO:Checking if pets ar equal.:
+2024-07-29 00:11:14,622:INFO:Setting pet as vaccinated:
+2024-07-29 00:11:14,622:INFO:listing pet details:
+2024-07-29 00:11:14,622:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:14,622:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:14,622:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:14,622:INFO:Retrieving pet age:
+2024-07-29 00:11:14,622:INFO:Retrieving pet age:
+2024-07-29 00:11:14,622:INFO:Retrieving pet age:
+2024-07-29 00:11:14,623:INFO:Adding new owner:
+2024-07-29 00:11:14,623:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:11:14,623:INFO:Listing owner details:
+2024-07-29 00:11:14,623:INFO:Listing owner details:
+2024-07-29 00:11:42,153:INFO:Checking if pets ar equal.:
+2024-07-29 00:11:42,153:INFO:Checking if pets ar equal.:
+2024-07-29 00:11:42,153:INFO:Setting pet as vaccinated:
+2024-07-29 00:11:42,153:INFO:listing pet details:
+2024-07-29 00:11:42,153:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:42,153:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:42,153:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:42,153:INFO:Retrieving pet age:
+2024-07-29 00:11:42,153:INFO:Retrieving pet age:
+2024-07-29 00:11:42,153:INFO:Retrieving pet age:
+2024-07-29 00:11:42,154:INFO:Adding new owner:
+2024-07-29 00:11:42,154:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:11:42,154:INFO:Listing owner details:
+2024-07-29 00:11:42,154:INFO:Listing owner details:
+2024-07-29 00:11:51,967:INFO:Checking if pets ar equal.:
+2024-07-29 00:11:51,968:INFO:Checking if pets ar equal.:
+2024-07-29 00:11:51,968:INFO:Setting pet as vaccinated:
+2024-07-29 00:11:51,968:INFO:listing pet details:
+2024-07-29 00:11:51,968:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:51,968:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:51,968:INFO:Checking pet is vaccinated:
+2024-07-29 00:11:51,968:INFO:Retrieving pet age:
+2024-07-29 00:11:51,968:INFO:Retrieving pet age:
+2024-07-29 00:11:51,968:INFO:Retrieving pet age:
+2024-07-29 00:11:51,968:INFO:Adding new owner:
+2024-07-29 00:11:51,968:ERROR:Error adding and saving owner: 'Pet' object is not iterable:
+2024-07-29 00:11:51,968:INFO:Listing owner details:
+2024-07-29 00:11:51,968:INFO:Listing owner details:
+2024-07-29 00:12:45,983:INFO:Checking if pets ar equal.:
+2024-07-29 00:12:45,983:INFO:Checking if pets ar equal.:
+2024-07-29 00:12:45,983:INFO:Setting pet as vaccinated:
+2024-07-29 00:12:45,983:INFO:listing pet details:
+2024-07-29 00:12:45,983:INFO:Checking pet is vaccinated:
+2024-07-29 00:12:45,983:INFO:Checking pet is vaccinated:
+2024-07-29 00:12:45,983:INFO:Checking pet is vaccinated:
+2024-07-29 00:12:45,983:INFO:Retrieving pet age:
+2024-07-29 00:12:45,983:INFO:Retrieving pet age:
+2024-07-29 00:12:45,983:INFO:Retrieving pet age:
+2024-07-29 00:12:45,984:INFO:Adding new owner:
+2024-07-29 00:12:45,984:INFO:Owner was added and data saved to json:
+2024-07-29 00:12:45,985:INFO:Adding new owner:
+2024-07-29 00:12:45,985:INFO:Owner was added and data saved to json:
+2024-07-29 00:12:45,986:INFO:Listing owner details:
+2024-07-29 00:12:45,986:INFO:Listing owner details:
+2024-07-29 00:13:06,933:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:06,933:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:06,933:INFO:Setting pet as vaccinated:
+2024-07-29 00:13:06,933:INFO:listing pet details:
+2024-07-29 00:13:06,933:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:06,933:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:06,934:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:06,934:INFO:Retrieving pet age:
+2024-07-29 00:13:06,934:INFO:Retrieving pet age:
+2024-07-29 00:13:06,934:INFO:Retrieving pet age:
+2024-07-29 00:13:06,934:INFO:Adding new owner:
+2024-07-29 00:13:06,935:INFO:Owner was added and data saved to json:
+2024-07-29 00:13:06,935:INFO:Adding new owner:
+2024-07-29 00:13:06,935:INFO:Owner was added and data saved to json:
+2024-07-29 00:13:06,935:INFO:Listing owner details:
+2024-07-29 00:13:06,935:INFO:Listing owner details:
+2024-07-29 00:13:13,692:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:13,692:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:13,692:INFO:Setting pet as vaccinated:
+2024-07-29 00:13:13,692:INFO:listing pet details:
+2024-07-29 00:13:13,692:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:13,692:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:13,692:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:13,692:INFO:Retrieving pet age:
+2024-07-29 00:13:13,692:INFO:Retrieving pet age:
+2024-07-29 00:13:13,692:INFO:Retrieving pet age:
+2024-07-29 00:13:13,693:INFO:Adding new owner:
+2024-07-29 00:13:13,694:INFO:Owner was added and data saved to json:
+2024-07-29 00:13:13,694:INFO:Adding new owner:
+2024-07-29 00:13:13,694:INFO:Owner was added and data saved to json:
+2024-07-29 00:13:13,694:INFO:Listing owner details:
+2024-07-29 00:13:13,694:INFO:Listing owner details:
+2024-07-29 00:13:22,470:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:22,470:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:22,470:INFO:Setting pet as vaccinated:
+2024-07-29 00:13:22,470:INFO:listing pet details:
+2024-07-29 00:13:22,470:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:22,470:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:22,470:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:22,470:INFO:Retrieving pet age:
+2024-07-29 00:13:22,470:INFO:Retrieving pet age:
+2024-07-29 00:13:22,470:INFO:Retrieving pet age:
+2024-07-29 00:13:22,471:INFO:Adding new owner:
+2024-07-29 00:13:22,472:INFO:Owner was added and data saved to json:
+2024-07-29 00:13:29,717:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:29,717:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:29,717:INFO:Setting pet as vaccinated:
+2024-07-29 00:13:29,717:INFO:listing pet details:
+2024-07-29 00:13:29,717:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:29,717:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:29,717:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:29,717:INFO:Retrieving pet age:
+2024-07-29 00:13:29,717:INFO:Retrieving pet age:
+2024-07-29 00:13:29,717:INFO:Retrieving pet age:
+2024-07-29 00:13:29,718:INFO:Adding new owner:
+2024-07-29 00:13:29,718:INFO:Owner was added and data saved to json:
+2024-07-29 00:13:51,352:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:51,352:INFO:Checking if pets ar equal.:
+2024-07-29 00:13:51,352:INFO:Setting pet as vaccinated:
+2024-07-29 00:13:51,352:INFO:listing pet details:
+2024-07-29 00:13:51,352:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:51,352:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:51,352:INFO:Checking pet is vaccinated:
+2024-07-29 00:13:51,352:INFO:Retrieving pet age:
+2024-07-29 00:13:51,352:INFO:Retrieving pet age:
+2024-07-29 00:13:51,352:INFO:Retrieving pet age:
+2024-07-29 00:13:51,353:INFO:Adding new owner:
+2024-07-29 00:13:51,354:INFO:Owner was added and data saved to json:
+2024-07-29 00:13:51,354:INFO:Listing owner details:
+2024-07-29 00:14:00,299:INFO:Checking if pets ar equal.:
+2024-07-29 00:14:00,299:INFO:Checking if pets ar equal.:
+2024-07-29 00:14:00,299:INFO:Setting pet as vaccinated:
+2024-07-29 00:14:00,299:INFO:listing pet details:
+2024-07-29 00:14:00,299:INFO:Checking pet is vaccinated:
+2024-07-29 00:14:00,299:INFO:Checking pet is vaccinated:
+2024-07-29 00:14:00,299:INFO:Checking pet is vaccinated:
+2024-07-29 00:14:00,299:INFO:Retrieving pet age:
+2024-07-29 00:14:00,299:INFO:Retrieving pet age:
+2024-07-29 00:14:00,299:INFO:Retrieving pet age:
+2024-07-29 00:14:00,301:INFO:Adding new owner:
+2024-07-29 00:14:00,301:INFO:Owner was added and data saved to json:
+2024-07-29 00:14:00,301:INFO:Adding new owner:
+2024-07-29 00:14:00,302:INFO:Owner was added and data saved to json:
+2024-07-29 00:14:00,302:INFO:Listing owner details:
+2024-07-29 00:14:21,648:INFO:Checking if pets ar equal.:
+2024-07-29 00:14:21,648:INFO:Checking if pets ar equal.:
+2024-07-29 00:14:21,648:INFO:Setting pet as vaccinated:
+2024-07-29 00:14:21,648:INFO:listing pet details:
+2024-07-29 00:14:21,649:INFO:Checking pet is vaccinated:
+2024-07-29 00:14:21,649:INFO:Checking pet is vaccinated:
+2024-07-29 00:14:21,649:INFO:Checking pet is vaccinated:
+2024-07-29 00:14:21,649:INFO:Retrieving pet age:
+2024-07-29 00:14:21,649:INFO:Retrieving pet age:
+2024-07-29 00:14:21,649:INFO:Retrieving pet age:
+2024-07-29 00:14:21,649:INFO:Adding new owner:
+2024-07-29 00:14:21,650:INFO:Owner was added and data saved to json:
+2024-07-29 00:14:21,650:INFO:Adding new owner:
+2024-07-29 00:14:21,651:INFO:Owner was added and data saved to json:
+2024-07-29 00:14:21,651:INFO:Listing owner details:
+2024-07-29 09:03:43,538:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:03:43,538:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:03:43,538:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:03:43,538:INFO:Checking if pets ar equal.:
+2024-07-29 09:03:43,539:INFO:Checking if pets ar equal.:
+2024-07-29 09:03:43,539:INFO:Setting pet as vaccinated:
+2024-07-29 09:03:43,539:INFO:listing pet details:
+2024-07-29 09:03:43,539:INFO:Checking pet is vaccinated:
+2024-07-29 09:03:43,539:INFO:Checking pet is vaccinated:
+2024-07-29 09:03:43,539:INFO:Checking pet is vaccinated:
+2024-07-29 09:03:43,539:INFO:Retrieving pet age:
+2024-07-29 09:03:43,539:INFO:Retrieving pet age:
+2024-07-29 09:03:43,539:INFO:Retrieving pet age:
+2024-07-29 09:03:43,539:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:03:43,539:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:03:43,539:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:03:43,539:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:03:43,539:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:03:43,539:INFO:Adding new owner:
+2024-07-29 09:03:43,539:ERROR:Error adding and saving owner: 'NoneType' object is not subscriptable:
+2024-07-29 09:03:43,539:INFO:Adding new owner:
+2024-07-29 09:03:43,539:ERROR:Error adding and saving owner: 'NoneType' object is not subscriptable:
+2024-07-29 09:03:43,540:INFO:Listing owner details:
+2024-07-29 09:03:43,540:INFO:Listing owner details:
+2024-07-29 09:07:51,879:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:07:51,880:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:07:51,880:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:07:51,880:INFO:Checking if pets ar equal.:
+2024-07-29 09:07:51,880:INFO:Checking if pets ar equal.:
+2024-07-29 09:07:51,880:INFO:Setting pet as vaccinated:
+2024-07-29 09:07:51,880:INFO:listing pet details:
+2024-07-29 09:07:51,880:INFO:Checking pet is vaccinated:
+2024-07-29 09:07:51,880:INFO:Checking pet is vaccinated:
+2024-07-29 09:07:51,880:INFO:Checking pet is vaccinated:
+2024-07-29 09:07:51,880:INFO:Retrieving pet age:
+2024-07-29 09:07:51,880:INFO:Retrieving pet age:
+2024-07-29 09:07:51,880:INFO:Retrieving pet age:
+2024-07-29 09:07:51,881:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:07:51,881:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:07:51,881:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:07:51,881:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:07:51,881:ERROR:File /object_oriented_programing/pet_management_system/pet_store.json not found. Starting with an empty library.:
+2024-07-29 09:07:51,881:INFO:Adding new owner:
+2024-07-29 09:07:51,881:ERROR:Error adding and saving owner: 'NoneType' object is not subscriptable:
+2024-07-29 09:07:51,881:INFO:Adding new owner:
+2024-07-29 09:07:51,881:ERROR:Error adding and saving owner: 'NoneType' object is not subscriptable:
+2024-07-29 09:07:51,881:INFO:Listing owner details:
+2024-07-29 09:07:51,881:INFO:Listing owner details:
